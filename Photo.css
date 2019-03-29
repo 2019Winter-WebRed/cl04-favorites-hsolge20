@@ -1,0 +1,23 @@
+/*
+* Hannah Solge 
+* Due Date
+* Project Name and Description
+*/
+
+/* The university selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+#Phillies {width: 360px; height: 350px;} /* this makes the first image a different size */
+#Eagles {width: 350px; height: 300px;} /* this makes the second image a different size */
+#Flyers {width: 300px; height: 400px;} /* this makes the third image a different size */
+#PhilsPhig {float: right;}
+#Eaglesfig {float: left;}
+#Flyersfig {float: right;} /* this move the pictures to different spots on the screen */
